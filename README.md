@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Název stránky</title>
+    <title>Škola Online</title>
   </head>
   <body>
-    <h1>Titulek</h1>
-    <p>Toto je odstavec textu.</p>
+    <h1>Škola Online</h1>
+    <p>Vítejte na naší webové stránce!</p>
   </body>
 </html>
