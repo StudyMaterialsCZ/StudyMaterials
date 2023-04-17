@@ -1,5 +1,3 @@
-# skola-online.github.io
-e-learningová stránka
 <!DOCTYPE html>
 <html>
   <head>
